@@ -1,38 +1,55 @@
-.App {
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  z-index: -1;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.search {
+  padding: 15px;
+  background-color: #fdd353;
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  font-size: 15px;
+  outline: none;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  .dish {
+    border-radius: 50%;
+    border: 4px solid #7e2a46;
+  }
+
+  .list {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  list-style-type: none;
+  font-size: 15px;
   }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
+  button {
+    border: none;
+    background-color: #ffae84;
+    cursor: pointer;
+    }
+
+    h2, p, li, input {
+      font-family: 'Dancing Script', cursive;
+      color: #470929f6;
+    }
+
+    h1 {
+      font-family: 'Dancing Script', cursive;
+      font-size: 45px;
+      background: linear-gradient(to left, #7e2a46, #4197a4);
+      -webkit-text-fill-color: transparent;
+      -webkit-background-clip: text;
+      letter-spacing: 5px;
+      font-weight: bolder;
+    }
