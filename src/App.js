@@ -45,11 +45,11 @@ function App() {
       <div className='container'>
         <form onSubmit={finalSearch}>
           <input className='search' onChange={myRecipeSearch} value={mySearch}></input>
-        </form>
-
-        <button onClick={finalSearch}>
+          
+          <button onClick={finalSearch}>
           <img src="https://img.icons8.com/external-kmg-design-outline-color-kmg-design/32/external-search-user-interface-kmg-design-outline-color-kmg-design.png" width="32" height="32" alt='search'/>
-        </button>
+          </button>        
+        </form>
       </div>
 
       {myRecipes.map((element, index) => (
