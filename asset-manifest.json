@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/QAInnaQA/donotgetbored.github.io.git/static/css/main.820bdf58.css",
-    "main.js": "/QAInnaQA/donotgetbored.github.io.git/static/js/main.b6b7f5bc.js",
-    "static/js/787.e3daa085.chunk.js": "/QAInnaQA/donotgetbored.github.io.git/static/js/787.e3daa085.chunk.js",
-    "static/media/Video.mp4": "/QAInnaQA/donotgetbored.github.io.git/static/media/Video.234bacc40d68101a6952.mp4",
-    "index.html": "/QAInnaQA/donotgetbored.github.io.git/index.html",
-    "main.820bdf58.css.map": "/QAInnaQA/donotgetbored.github.io.git/static/css/main.820bdf58.css.map",
-    "main.b6b7f5bc.js.map": "/QAInnaQA/donotgetbored.github.io.git/static/js/main.b6b7f5bc.js.map",
-    "787.e3daa085.chunk.js.map": "/QAInnaQA/donotgetbored.github.io.git/static/js/787.e3daa085.chunk.js.map"
+    "main.css": "/donotgetbored.github.io/static/css/main.820bdf58.css",
+    "main.js": "/donotgetbored.github.io/static/js/main.ea9bafe1.js",
+    "static/js/787.e3daa085.chunk.js": "/donotgetbored.github.io/static/js/787.e3daa085.chunk.js",
+    "static/media/Video.mp4": "/donotgetbored.github.io/static/media/Video.234bacc40d68101a6952.mp4",
+    "index.html": "/donotgetbored.github.io/index.html",
+    "main.820bdf58.css.map": "/donotgetbored.github.io/static/css/main.820bdf58.css.map",
+    "main.ea9bafe1.js.map": "/donotgetbored.github.io/static/js/main.ea9bafe1.js.map",
+    "787.e3daa085.chunk.js.map": "/donotgetbored.github.io/static/js/787.e3daa085.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.820bdf58.css",
-    "static/js/main.b6b7f5bc.js"
+    "static/js/main.ea9bafe1.js"
   ]
 }
