@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/QAInnaQA/myrecipesproject.git/static/css/main.820bdf58.css",
+    "main.js": "/QAInnaQA/myrecipesproject.git/static/js/main.d4646ad5.js",
+    "static/js/787.e3daa085.chunk.js": "/QAInnaQA/myrecipesproject.git/static/js/787.e3daa085.chunk.js",
+    "static/media/Video.mp4": "/QAInnaQA/myrecipesproject.git/static/media/Video.234bacc40d68101a6952.mp4",
+    "index.html": "/QAInnaQA/myrecipesproject.git/index.html",
+    "main.820bdf58.css.map": "/QAInnaQA/myrecipesproject.git/static/css/main.820bdf58.css.map",
+    "main.d4646ad5.js.map": "/QAInnaQA/myrecipesproject.git/static/js/main.d4646ad5.js.map",
+    "787.e3daa085.chunk.js.map": "/QAInnaQA/myrecipesproject.git/static/js/787.e3daa085.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.820bdf58.css",
+    "static/js/main.d4646ad5.js"
+  ]
+}
