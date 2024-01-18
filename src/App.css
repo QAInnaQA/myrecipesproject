@@ -42,11 +42,12 @@ video {
     h2, p, li, input {
       font-family: 'Dancing Script', cursive;
       color: #470929f6;
+      font-size: 20px;
     }
 
     h1 {
       font-family: 'Dancing Script', cursive;
-      font-size: 45px;
+      font-size: 35px;
       background: linear-gradient(to left, #7e2a46, #4197a4);
       -webkit-text-fill-color: transparent;
       -webkit-background-clip: text;
